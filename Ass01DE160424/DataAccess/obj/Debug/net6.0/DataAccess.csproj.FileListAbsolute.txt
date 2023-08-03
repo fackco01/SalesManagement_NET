@@ -1,0 +1,5 @@
+D:\FPT\SE1604\SU23\PRN221\Project\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT\SE1604\SU23\PRN221\Project\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\SE1604\SU23\PRN221\Project\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT\SE1604\SU23\PRN221\Project\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\FPT\SE1604\SU23\PRN221\Project\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
